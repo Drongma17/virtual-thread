@@ -39,6 +39,4 @@ public class ReportController {
         return ResponseEntity.ok( "✅ Virtual report started for region: " + region);
     }
 
-
-
 }
