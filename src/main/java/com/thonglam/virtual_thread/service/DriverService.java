@@ -1,5 +1,8 @@
-package com.thonglam.virtual_thread.specification;
+package com.thonglam.virtual_thread.service;
 
+import com.thonglam.virtual_thread.entity.Driver;
+import com.thonglam.virtual_thread.repository.DriverRepository;
+import com.thonglam.virtual_thread.util.DriverSpecifications;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

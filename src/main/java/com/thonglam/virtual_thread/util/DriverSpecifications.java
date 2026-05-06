@@ -1,5 +1,6 @@
-package com.thonglam.virtual_thread.specification;
+package com.thonglam.virtual_thread.util;
 
+import com.thonglam.virtual_thread.entity.Driver;
 import org.springframework.data.jpa.domain.Specification;
 
 public class DriverSpecifications {

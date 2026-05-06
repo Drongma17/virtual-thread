@@ -1,4 +1,4 @@
-package com.thonglam.virtual_thread.specification;
+package com.thonglam.virtual_thread.config;
 
 
 import org.springframework.data.domain.AuditorAware;

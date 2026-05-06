@@ -1,4 +1,4 @@
-package com.thonglam.virtual_thread.specification;
+package com.thonglam.virtual_thread.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
